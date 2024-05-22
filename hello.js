@@ -4,7 +4,18 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log("Hello, World!")
+console.log(1);
+console.log("Here's some math for ya! " + "One + One is " + (1 + 1) + ".");
+console.log("Hey, Dude!");
+console.log("How are you?");
+console.log("Hey, Dude! " + "How are you?");
+console.log("\"Excited to be a LaunchCode student\" - Renaldo Wade");
+
+let firstName = "Renaldo";
+let lastName = "Wade"
+console.log("Hey! My name is " + firstName + " " + lastName);
 
 /*  
 Next, PLAY! 
